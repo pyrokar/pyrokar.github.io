@@ -1,0 +1,17 @@
+{
+  "name": "pyrokar.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pyrokar/pyrokar.github.io.git",
+  "author": "Gunter Solf <gunter.solf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "astro": "^4.10.1"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  }
+}
